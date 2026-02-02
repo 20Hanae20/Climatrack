@@ -301,7 +301,7 @@ if auto_refresh:
 
 st.title("CLIMATRACK MAROC")
 st.markdown("### Didier au Maroc · Système météo classique et simple")
-st.caption("Code réalisé par Hanae Chaiboub")
+st.caption(" réalisé par Hanae Chaiboub")
 
 # ============================================================================
 # CRÉATION DES ONGLETS (TABS) - 4 DASHBOARDS
@@ -665,7 +665,7 @@ with tab4:
         
         # --- STATISTIQUES RÉSUMÉES ---
         st.markdown("---")
-        st.subheader("📊 Statistiques")
+        st.subheader(" Statistiques")
         
         # Afficher 4 métriques statistiques
         col1, col2, col3, col4 = st.columns(4)
