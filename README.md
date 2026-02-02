@@ -107,9 +107,3 @@ Licence
 -------
 Projet fourni à titre éducatif.
 
-Contact
--------
-Pour questions ou contributions : ouvrir une issue sur le dépôt.
-
----
-Version professionnelle du `README.md` — mise à jour par l'équipe de maintenance.
